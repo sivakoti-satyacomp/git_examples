@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I am another file with one line"
+echo "I am second file with 1 line"
